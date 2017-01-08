@@ -261,8 +261,8 @@
 
 	}
 
-	var images = ['1.JPG','2.JPG','3.JPG','4.JPG','5.JPG','6.JPG','7.JPG','8.jpg'];
-	//var images = ['1.JPG','2.JPG','3.JPG'];
+	var images = ['foto-1.jpg','foto-2.jpg','foto-3.jpg','foto-4.jpg','foto-5.jpg','foto-6.jpg','foto-7.jpg','foto-8.jpg'];
+	//var images = ['foto-1.jpg','foto-2.jpg','foto-3.jpg'];
 	
 	var game = new Game(images);
 	
